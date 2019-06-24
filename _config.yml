@@ -5,7 +5,7 @@ description: "My personal website"
 baseurl: ""
 url: "http://stanynoel.github.io/"
 title_description: "Noel Stany personal website"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: ""
 google_analytics: "UA-20365477-4"
 disqus_account: 
 github_repository: https://github.com/stanynoel/stanynoel.github.io/
