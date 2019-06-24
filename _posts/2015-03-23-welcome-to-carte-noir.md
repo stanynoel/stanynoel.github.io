@@ -1,16 +1,16 @@
 ---
 layout:     post
-title:      Welcome to Carte Noire
+title:      About ME
 date:       2015-03-23 15:31:19
-author:     Jacob Tomlinson
-summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
+author:     Noel Stany
+summary:    Data Science Enthusiast
 categories: jekyll
 thumbnail:  heart
 tags:
- - welcome
- - to
- - carte
- - noire
+ - A
+ - Small
+ - Creative
+ - Friend
 ---
 
 Welcome to Carte Noire.
